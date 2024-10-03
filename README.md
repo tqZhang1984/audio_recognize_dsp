@@ -1,0 +1,1 @@
+This code is merely a simple implementation, with the network interface implementation coming from [this github repo]:[https://github.com/ichn-hu/Speech-Recognition-Via-CNN], and there may be errors in the code, so it is for reference only.
